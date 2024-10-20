@@ -41,7 +41,7 @@ const Form = () => {
             />
           </div>
           <button className="btn w-100 btn-sm bg-dark text-light">
-            Save Todos
+            Save Todo
           </button>
         </form>
         <button
